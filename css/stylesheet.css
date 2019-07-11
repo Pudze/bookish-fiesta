@@ -1,0 +1,63 @@
+body {
+	background-color: #405e8f;
+	margin: 0;
+}
+header img {
+	height: 700px;
+	width: 100%;
+
+}
+header h1 {
+	text-align: center;
+	text-decoration: underline;
+	font-size: 90px;
+	font-family: Impact, Charcoal, sans-serif;
+	color: red;
+	position: absolute;
+	top: 200px;
+	right: 45%;
+
+}
+.Rumal {
+	font-size: 50px;
+	text-align: center;
+	font-weight: 700;
+}
+.Jaak2 {
+	width: 400px;
+	height: 400px;
+	position: absolute;
+	left: 20%;
+
+}
+.Jaak3 {
+	width: 400px;
+	height: 400px;
+	position: absolute;
+	right: 20%;
+}
+.Jaak4 {
+	width: 400px;
+	height: 400px;
+	position: absolute;
+	top: 140%;
+	left: 20%;
+}
+.Jaak5 {
+	width: 400px;
+	height: 400px;
+	position: absolute;
+	right: 20%;
+	top: 140%;
+}
+.footer {
+	position: absolute;
+	top: 185%;
+	left: 650px;
+}
+footer h1{
+	font-size: 50px;
+}
+footer ul{
+	font-size: 50px;
+}
